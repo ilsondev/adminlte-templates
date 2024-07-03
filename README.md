@@ -2,7 +2,7 @@
     <img width="350" src="https://ilson.dev/assets/img/logo-white.png" alt="@IlsonDev">
 </h1>
 
-AdminLTE Templates for InfyOm Laravel Generator
+AdminLTE Templates for Laravel Generator
 ==========================
 
 [![Total Downloads](https://poser.pugx.org/infyomlabs/laravel-generator/downloads)](https://packagist.org/packages/infyomlabs/laravel-generator)
